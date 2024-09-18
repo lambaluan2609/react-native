@@ -1,2 +1,2 @@
 # react-native
-lap trinh mobile
+lap trinh mobile - MMA301 FPT University
